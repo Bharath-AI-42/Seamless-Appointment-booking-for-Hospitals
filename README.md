@@ -52,10 +52,11 @@ Experience efficient healthcare management in a single platform.
 ---
 
 ### 💻 Local Setup
-```bash
-git clone https://github.com/Vidya-593/seamless.git
+git clone https://github.com/Bharath-AI-42/seamless.git
 cd seamless
 # Install dependencies (Node & React)
 npm install
 # Start the app
 npm start
+
+
